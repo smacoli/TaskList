@@ -1,0 +1,10 @@
+{
+    "__comment1": "Configura o autoload das classes no projeto",
+    "name": "suzana/tarefas",
+    "autoload": {
+        "psr-4": {
+            "App\\":"app/"
+        }
+    }
+}
+
